@@ -1,4 +1,9 @@
 # TurboWarp Extension Gallery
+Notifications: https://raw.githubusercontent.com/PSYclownYT/turbowarp-extensions-custom/master/extensions/notifications.js
+
+local storage: https://raw.githubusercontent.com/PSYclownYT/turbowarp-extensions-custom/master/extensions/localstorageextension.js
+
+itch.io: 
 
 User-contributed unsandboxed extension gallery for TurboWarp.
 
